@@ -15,7 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preethigit19&show_icons=true&locale=en&layout=compact" alt="preethigit19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preethigit19&show_icons=true&locale=en" alt="preethigit19" /></p>
-ale=en&layout=compact" alt="preethigit19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preethigit19&show_icons=true&locale=en" alt="preethigit19" /></p>
