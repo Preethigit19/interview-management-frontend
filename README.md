@@ -7,7 +7,7 @@
 
 - 🚀 Building an **Interview Management System**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: preethisrinivas43@gamil.com </h3>
 <p align="left">
 </p>
 
